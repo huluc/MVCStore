@@ -1,0 +1,7 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\bin\Debug\MVCStore.Interfaces.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\bin\Debug\MVCStore.Interfaces.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\bin\Debug\MVCStore.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\bin\Debug\MVCStore.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\obj\Debug\MVCStore.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\obj\Debug\MVCStore.Interfaces.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Interfaces\obj\Debug\MVCStore.Interfaces.pdb

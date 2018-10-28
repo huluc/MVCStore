@@ -1,0 +1,9 @@
+﻿@model List<MVCStore.Entities.Concrete.Category>
+<h1 class="my-4">Shop Name</h1>
+
+<div class="list-group">
+    @foreach (var item in Model)
+    {       
+        @Html.RouteLink(item.CategoryName,new { controller="Product",action="Index",category=item.CategoryId},new { @class= "list-group-item" })
+    }
+</div>

@@ -1,0 +1,5 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Entities\bin\Debug\MVCStore.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Entities\bin\Debug\MVCStore.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Entities\obj\Debug\MVCStore.Entities.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Entities\obj\Debug\MVCStore.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.Entities\obj\Debug\MVCStore.Entities.pdb

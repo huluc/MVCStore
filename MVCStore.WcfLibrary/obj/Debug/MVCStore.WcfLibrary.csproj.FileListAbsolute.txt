@@ -1,0 +1,16 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\obj\Debug\MVCStore.WcfLibrary.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.WcfLibrary.dll.config
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.WcfLibrary.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.WcfLibrary.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.BLL.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.DAL.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.Interfaces.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\EntityFramework.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.BLL.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.DAL.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\MVCStore.Interfaces.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\bin\Debug\EntityFramework.xml
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\obj\Debug\MVCStore.WcfLibrary.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.WcfLibrary\obj\Debug\MVCStore.WcfLibrary.pdb

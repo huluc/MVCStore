@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.DAL", "MVCStore.DAL\MVCStore.DAL.csproj", "{EF84C59A-1790-44BF-873E-BF99521FFEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.BLL", "MVCStore.BLL\MVCStore.BLL.csproj", "{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.WcfLibrary", "MVCStore.WcfLibrary\MVCStore.WcfLibrary.csproj", "{131860D3-CAE4-4EA3-B799-4BF937A2986F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MVCStore.WcfIISHost", "MVCStore.WcfIISHost\", "{1356927E-1E32-4855-98A2-C6658AB5CF61}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{131860d3-cae4-4ea3-b799-4bf937a2986f}|MVCStore.WcfLibrary.dll;{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}|MVCStore.BLL.dll;{EF84C59A-1790-44BF-873E-BF99521FFEC1}|MVCStore.DAL.dll;{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}|MVCStore.Entities.dll;{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}|MVCStore.Interfaces.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55464"
+		Debug.AspNetCompiler.PhysicalPath = "MVCStore.WcfIISHost\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55464\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55464"
+		Release.AspNetCompiler.PhysicalPath = "MVCStore.WcfIISHost\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55464\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55464"
+		SlnRelativePath = "MVCStore.WcfIISHost\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.Entities", "MVCStore.Entities\MVCStore.Entities.csproj", "{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.MVCWebUI", "MVCStore.MVCWebUI\MVCStore.MVCWebUI.csproj", "{1B9872DD-C06E-4B98-B640-7FBA275710E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.MVCWebUI.Tests", "MVCStore.MVCWebUI.Tests\MVCStore.MVCWebUI.Tests.csproj", "{EFC30B98-A54D-4F17-9211-9CDC608E3890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCStore.Interfaces", "MVCStore.Interfaces\MVCStore.Interfaces.csproj", "{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF84C59A-1790-44BF-873E-BF99521FFEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF84C59A-1790-44BF-873E-BF99521FFEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF84C59A-1790-44BF-873E-BF99521FFEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF84C59A-1790-44BF-873E-BF99521FFEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798C6F8F-7D03-4C98-9EC3-9FA6797BAD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131860D3-CAE4-4EA3-B799-4BF937A2986F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131860D3-CAE4-4EA3-B799-4BF937A2986F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131860D3-CAE4-4EA3-B799-4BF937A2986F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131860D3-CAE4-4EA3-B799-4BF937A2986F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1356927E-1E32-4855-98A2-C6658AB5CF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356927E-1E32-4855-98A2-C6658AB5CF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1356927E-1E32-4855-98A2-C6658AB5CF61}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356927E-1E32-4855-98A2-C6658AB5CF61}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67ECC7B5-8601-40BE-AA7C-9CB9C1870E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9872DD-C06E-4B98-B640-7FBA275710E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9872DD-C06E-4B98-B640-7FBA275710E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9872DD-C06E-4B98-B640-7FBA275710E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9872DD-C06E-4B98-B640-7FBA275710E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC30B98-A54D-4F17-9211-9CDC608E3890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC30B98-A54D-4F17-9211-9CDC608E3890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC30B98-A54D-4F17-9211-9CDC608E3890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC30B98-A54D-4F17-9211-9CDC608E3890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932EEB14-02AA-48FB-8BAF-16C2F9E464B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

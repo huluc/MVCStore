@@ -1,0 +1,13 @@
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.BLL.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.BLL.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.DAL.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.Entities.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.Interfaces.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\EntityFramework.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.DAL.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.Entities.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\MVCStore.Interfaces.pdb
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\bin\Debug\EntityFramework.xml
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\obj\Debug\MVCStore.BLL.csprojResolveAssemblyReference.cache
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\obj\Debug\MVCStore.BLL.dll
+c:\users\ulucay\documents\visual studio 2015\Projects\MVCStore\MVCStore.BLL\obj\Debug\MVCStore.BLL.pdb
